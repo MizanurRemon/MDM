@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e1f94cb-ae77-4c3e-a276-f97b52abc5dc" name="Changes" comment="" />
+    <list default="true" id="1e1f94cb-ae77-4c3e-a276-f97b52abc5dc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/co/coburglabs/mdm/DeviceOwnerReceiver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/co/coburglabs/mdm/DeviceOwnerReceiver.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +47,7 @@
     </system>
   </component>
   <component name="GenerateSignedApkSettings">
-    <option name="KEY_STORE_PATH" value="C:\Users\NEPTUNE TECH\StudioProjects\android-deviceowner-kotlin\android\keystore.jks" />
+    <option name="KEY_STORE_PATH" value="C:\Users\NEPTUNE TECH\StudioProjects\mdmprac\keystore.jks" />
     <option name="KEY_ALIAS" value="key0" />
     <option name="REMEMBER_PASSWORDS" value="true" />
     <option name="BUILD_TARGET_KEY" value="apk" />
@@ -51,16 +61,19 @@
     &quot;assignee&quot;: &quot;MizanurRemon&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/codybrookshear/android-deviceowner-kotlin.git&quot;,
-    &quot;accountId&quot;: &quot;97f5b2fd-e7dc-4d8c-a1b6-1afcef2473ac&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MizanurRemon/MDM.git",
+    "accountId": "97f5b2fd-e7dc-4d8c-a1b6-1afcef2473ac"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="389aR9PRCQjQWKgvyHWACMupHqf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -68,7 +81,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ApkExportedModule": "MDM.app",
-    "ExportApk.ApkPathForMDM.app": "C:\\Users\\NEPTUNE TECH\\StudioProjects\\android-deviceowner-kotlin\\android\\app",
+    "ExportApk.ApkPathForMDM.app": "C:\\Users\\NEPTUNE TECH\\StudioProjects\\mdmprac\\app",
     "Gradle.Upgrade Gradle wrapper.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -171,5 +184,21 @@
       <updated>1768214229251</updated>
     </task>
     <servers />
+  </component>
+  <component name="play_dynamic_filters_status">
+    <option name="appIdToCheckInfo">
+      <map>
+        <entry key="co.coburglabs.mdm">
+          <value>
+            <CheckInfo lastCheckTimestamp="1768217661786" />
+          </value>
+        </entry>
+        <entry key="co.coburglabs.mdm.test">
+          <value>
+            <CheckInfo lastCheckTimestamp="1768217661787" />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

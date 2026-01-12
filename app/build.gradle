@@ -57,7 +57,7 @@ android {
 
     signingConfigs {
         release {
-            storeFile file("C:/Users/NEPTUNE TECH/StudioProjects/android-deviceowner-kotlin/android/keystore.jks")
+            storeFile file("C:/Users/NEPTUNE TECH/StudioProjects/mdmprac/keystore.jks")
             storePassword "123456"
             keyAlias "key0"
             keyPassword "123456"
